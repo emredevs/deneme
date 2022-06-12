@@ -1,4 +1,4 @@
-#git tarafından takip edilmesini istemediğimiz dosyaları berlirte biliyoruz .gitignore ile.
+#git tarafından takip edilmesini istemediğimiz dosyaları berlirte biliyoruz .gitignore ile gitHub'a yüklerken video, resim vb. seyleri yuklemez böylece
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
